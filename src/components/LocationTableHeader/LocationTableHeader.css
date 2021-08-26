@@ -1,0 +1,23 @@
+/* .headerRow {
+    display: flex;
+} */
+
+th {
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center; */
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+    font-size: 24px;
+    background-color: rgb(117, 201, 250);
+}
+
+button {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    font-size: 24px;
+    text-align: left;
+}
